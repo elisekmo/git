@@ -2,4 +2,8 @@ test
 
 This is my friggin change
 
+<<<<<<< HEAD
 this is bad code, so I changed it
+=======
+change tot he change 
+>>>>>>> features
