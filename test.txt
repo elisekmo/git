@@ -1,3 +1,5 @@
 test
 
 This is my friggin change
+
+this is bad code, so I changed it
